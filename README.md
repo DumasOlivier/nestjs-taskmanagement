@@ -1,3 +1,11 @@
+<br/>
+<p align="center">
+  Code written to create a task management app by following the tutorial
+  <a href="https://www.udemy.com/course/nestjs-zero-to-hero/">NestJS Zero to Hero - Modern TypeScript Back-end Development</a>
+</p>
+<br/>
+<br/>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
